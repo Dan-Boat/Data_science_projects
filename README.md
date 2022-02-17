@@ -20,3 +20,6 @@ This project uses client data to predict if a customer will make purchase again 
 
 # 5. Absenteeism data analysis
 The project uses employees data to determine the likelyhood of certain group of people to be absent from work. This is a classification problem by predicting the level of expected leave using the personal data of the employees. In this project, I applied logistic regression since my targets where group into 0,1 representing excessively absent or moderately absent. This type of information partially help companies to target certain class of applicant for specific positions
+
+# 6. CNN for cat or dog classification 
+This project is a small exercise on using CNN to classify images of cat or dog. The dataset is large to push in this repository but can be provided upon request or downloaded from online. I used 10,000 images to train the algorithm but did not allow it to converge due to computational requirement. I used a simple architecture consisting of convolution with filters, pooling witn MaxPool2D, Flattening and then training on a dense network. 
