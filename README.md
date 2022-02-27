@@ -23,3 +23,6 @@ The project uses employees data to determine the likelyhood of certain group of 
 
 # 6. CNN for cat or dog classification 
 This project is a small exercise on using CNN to classify images of cat or dog. The dataset is large to push in this repository but can be provided upon request or downloaded from online. I used 10,000 images to train the algorithm but did not allow it to converge due to computational requirement. I used a simple architecture consisting of convolution with filters, pooling witn MaxPool2D, Flattening and then training on a dense network. 
+
+# 7. RNN (LSTM) for Google stock price prediction
+This exercise uses Long Short-Term Memory (LSTM) Recuurent Neural Network (RNN) to predict the trend of google stock price. The model is optimized on a 5 year data and independently tested on the first month of 2017. We apply a 60 timesteps for each learning point (memory range) and only rely on the stock price for the model training. 
