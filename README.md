@@ -1,5 +1,6 @@
 # Exp.AI.ML
-Consist of various machine learning and Al projects at the experimental stage. 
+Consist of various machine learning and Al projects at the experimental stage. The motive is to try simple ML projects before integrating them on the bigger
+scale. The implementation are heavily based on [scikit-learn](www.scikit-learn.org), [tensorflow](www.tensorflow.org) and [Keras](https://keras.io/) 
 
 ## 1. Stacked_ensemble
 Demonstrate how to use integrated or separate stacking ensemble model for different Multi-Layer Perceptron model for simple multi-class classification probelm. The notebook uses 
