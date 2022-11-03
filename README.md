@@ -1,4 +1,5 @@
-# Exp.AI.ML
+# ML and AI projects
+
 Consist of various machine learning and Al projects at the experimental stage. The motive is to try simple ML projects before integrating them on the bigger
 scale. The implementation are heavily based on [scikit-learn](www.scikit-learn.org), [tensorflow](www.tensorflow.org) and [Keras](https://keras.io/) 
 ![alt text](https://github.com/Dan-Boat/Exp.AI.ML/blob/master/img/img1.jpg?raw=True)
