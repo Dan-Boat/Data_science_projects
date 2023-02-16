@@ -6,8 +6,7 @@ scale. The implementation are heavily based on [scikit-learn](www.scikit-learn.o
 
 
 ## 1. Stacked_ensemble
-Demonstrate how to use integrated or separate stacking ensemble model for different Multi-Layer Perceptron model for simple multi-class classification probelm. The notebook uses 
-sklearn datasets, tensorflow models and logistic regression form sklearn.linear model
+In this notebook, we will explore how to implement stacking ensemble models for multi-class classification problems using both integrated and separate approaches. We will use popular machine learning libraries such as Scikit-learn and TensorFlow to create various Multi-Layer Perceptron models, and also apply logistic regression from Scikit-learn's linear model to compare their performance. The datasets used for this exercise will be provided by Scikit-learn, and we will demonstrate step-by-step instructions for each approach.
 
 ## 2. Ensemble Regressors
 Test different estimators for building ensembles trained sequentially to reduce the bias and variace of the the combined estimator. The advantage is that the individual weak models 
